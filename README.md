@@ -1,6 +1,6 @@
 # yt Google Summer of Code 2018
 
-<a href="http://yt-project.org"><img src="doc/source/_static/yt_logo.png" width="300"></a>
+<a href="http://yt-project.org"><img src="yt_logo.png" width="300"></a>
 
 This repository is here to collect information about the yt's
 participation in google summer of code 2018.

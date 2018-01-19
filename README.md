@@ -18,7 +18,7 @@ an idea, please add a link to your idea here.
 
 Formal discussion about google summer of code should happen on [the
 yt-dev mailing
-list](http://lists.spacepope.org/listinfo.cgi/yt-dev-spacepope.org). We
+list](https://mail.python.org/mm3/mailman3/lists/yt-dev.python.org/). We
 also have a slack community for informal discussion that you can
 request access to once you formally introduce yourself to the
 community. All project communication must obey the [yt community code

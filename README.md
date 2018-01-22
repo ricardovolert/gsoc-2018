@@ -11,8 +11,7 @@ Code development for yt happens on GitHub: http://github.com/yt-project/yt
 
 ## Project Ideas
 
-Ideas will be listed here once they are available. If you are adding
-an idea, please add a link to your idea here.
+* [Interpolating particle data onto grids](https://github.com/yt-project/gsoc-2018/tree/master/ideas/sph-smoothing.md)
 
 ## Communication
 

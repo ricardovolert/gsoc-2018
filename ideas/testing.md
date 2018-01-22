@@ -31,9 +31,9 @@ Experience with a compiled language like C, C++, or Cython.
 
 **Possible Mentors**
 
-Kacper Kowalik
-Nathan Goldbaum
-Matt Turk (backup)
+* Kacper Kowalik
+* Nathan Goldbaum
+* Matt Turk (backup)
 
 **Difficulty Rating**
 

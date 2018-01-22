@@ -37,9 +37,9 @@ Not necessary but would be helpful
 
 **Possible Mentors**
 
-Nathan Goldbaum (primary)
-Meagan Lang (backup)
-Matt Turk (backup)
+* Nathan Goldbaum (primary)
+* Meagan Lang (backup)
+* Matt Turk (backup)
 
 **Difficulty Rating**
 

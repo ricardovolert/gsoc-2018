@@ -22,8 +22,8 @@ At least intermediate-level Python experience. Introductory undergraduate level 
 
 **Possible Mentors**
 
-Nathan Goldbaum
-Matthew Turk
+* Nathan Goldbaum (primary)
+* Matthew Turk
 
 **Difficulty Rating**
 

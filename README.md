@@ -13,7 +13,7 @@ Code development for yt happens on GitHub: http://github.com/yt-project/yt
 
 * [Interpolating particle data onto grids](https://github.com/yt-project/gsoc-2018/tree/master/ideas/sph-smoothing.md)
 * [Improve test coverage and performance](https://github.com/yt-project/gsoc-2018/tree/master/ideas/testing.md)
-* [Domain contexts and domain-specific fields](https://github.com/yt-project/gsoc-2018/tree/master/ideas/domain-context.md)
+* [Domain contexts and domain-specific fields](https://github.com/yt-project/gsoc-2018/tree/master/ideas/domain-contexts.md)
 
 ## Communication
 

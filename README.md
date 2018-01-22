@@ -56,12 +56,7 @@ participate.
 5. **Create a blog** so your mentors and others in the project can keep track
 of your progress. This blog will be updated throughout your summer of code internship if you are selected.
 
-6. **Start working on your application**. If you would like us to give feedback
-on your application, please create a copy of the `template.md` file a new with the name ``<Your Name>:<Project Name>.md`` and fill out the template.
-
-The [student guide](http://en.flossmanuals.net/GSoCStudentGuide/ch008_writing-a-proposal/) and [Sympy Application Template](https://github.com/sympy/sympy/wiki/GSoC-2016-Application-Template) also provide some additional advice on preparing your application.
-
-Give yourself plenty of time to work on the application. Please also contact the primary mentor listed on the project idea so that the mentor can look over your application and give you feedback before submission.
+6. **Start working on your application**. If you would like us to give feedback on your application, please create a copy of the `template.md` file a new with the name ``<Your Name>:<Project Name>.md`` and fill out the template. The [student     guide](http://en.flossmanuals.net/GSoCStudentGuide/ch008_writing-a-proposal/) and [Sympy Application Template](https://github.com/sympy/sympy/wiki/GSoC-2016-Application-Template) also provide some additional advice on preparing your application. Give yourself plenty of time to work on the application. Please also contact the primary mentor listed on the project idea so that the mentor can look over your application and give you feedback before submission.
 
 7. **Submit your application** via the [Google Summer of Code](https://summerofcode.withgoogle.com/) site! Let your potential mentors
 know once you have done this so they can give it a final look over.

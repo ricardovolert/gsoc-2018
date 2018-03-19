@@ -33,6 +33,7 @@ Experience with a compiled language like C, C++, or Cython.
 
 * Kacper Kowalik
 * Nathan Goldbaum
+* Colin Marc
 * Matt Turk (backup)
 
 **Difficulty Rating**

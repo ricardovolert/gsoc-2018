@@ -9,6 +9,12 @@ You can find more information about yt on our website: http://yt-project.org
 
 Code development for yt happens on GitHub: http://github.com/yt-project/yt
 
+## Project Links
+
+Follow the progress of the google summer of code students
+
+[Ashley Kelly: Interpolating particle data onto grids](https://ashkelly.github.io/gsoc-blog/)
+
 ## Project Ideas
 
 * [Interpolating particle data onto grids](https://github.com/yt-project/gsoc-2018/tree/master/ideas/sph-smoothing.md)

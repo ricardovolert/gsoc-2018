@@ -15,6 +15,8 @@ Follow the progress of the google summer of code students
 
 [Ashley Kelly: Interpolating particle data onto grids](https://ashkelly.github.io/gsoc-blog/)
 
+[Abhishek Singh: Improve test coverage and test performance](https://git-abhishek.github.io/blog/)
+
 ## Project Ideas
 
 * [Interpolating particle data onto grids](https://github.com/yt-project/gsoc-2018/tree/master/ideas/sph-smoothing.md)
